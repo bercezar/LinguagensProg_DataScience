@@ -9,7 +9,7 @@ CSV_PATHS = [
     'data/vendas_brasil.csv',
 ]
 
-csv_path = next((p for p in CSV_PATHS if os.path.exists(p)), None)
+csv_path = next((p for p in CSV_PATHS if os.path.exists(p)), None)as
 if csv_path is None:
     raise FileNotFoundError(
         'Não encontrei o arquivo vendas_brasil.csv. '
