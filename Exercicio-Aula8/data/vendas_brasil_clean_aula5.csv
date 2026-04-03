@@ -1,0 +1,481 @@
+﻿data,uf,canal_venda,segmento,categoria,produto,quantidade,preco_unitario,receita,lucro,margem_lucro,mes
+2024-03-17,SC,Marketplace,Varejo,Acessórios,Mouse Gamer,3,221.45,664.35,-110.6595,-0.16656807405734927,2024-03
+2024-08-28,BA,Online,Varejo,Acessórios,Mouse Gamer,3,195.52,586.56,232.56,0.3965,2024-08
+2024-11-08,RJ,Marketplace,Corporativo,Móveis,Cadeira Office,9,1079.28,9713.52,3416.67,0.3517,2024-11
+2024-08-21,RJ,Online,Varejo,Acessórios,Headset Pro,3,309.43,928.29,416.88,0.4491,2024-08
+2024-03-14,RJ,Televendas,Corporativo,Acessórios,Headset Pro,6,313.42,1880.52,778.56,0.414,2024-03
+2024-09-26,SP,Televendas,Varejo,Acessórios,Mouse Gamer,2,179.41,358.82,125.6,0.35,2024-09
+2024-05-29,PR,Marketplace,Varejo,Acessórios,Mouse Gamer,4,216.85,867.4,374.8,0.4321,2024-05
+2024-02-06,RS,Televendas,Corporativo,Móveis,Cadeira Office,4,974.85,3899.4,1281.0,0.3285,2024-02
+2024-05-22,MG,Loja Física,Varejo,Eletrônicos,Notebook Pro,3,4624.43,13873.29,3468.42,0.25,2024-05
+2024-06-10,SP,Marketplace,Varejo,Móveis,Cadeira Office,4,1019.19,4076.76,1360.52,0.3337,2024-06
+2024-11-23,BA,Televendas,Corporativo,Eletrônicos,Smartphone X,5,2828.98,14144.9,3587.45,0.2536,2024-11
+2024-10-08,PE,Online,Varejo,Eletrônicos,Smartphone X,5,3042.43,15212.15,4176.8,0.2746,2024-10
+2024-07-18,SC,Televendas,Corporativo,Acessórios,Teclado Mecânico,4,392.38,1569.52,698.64,0.4451,2024-07
+2024-10-11,PE,Online,Corporativo,Eletrônicos,Monitor 27,6,1744.95,10469.7,4146.18,0.396,2024-10
+2024-09-26,SP,Loja Física,Varejo,Móveis,Cadeira Office,3,980.48,2941.44,866.49,0.2946,2024-09
+2024-01-11,RJ,Televendas,Varejo,Acessórios,Mouse Gamer,4,218.69,874.76,367.08,0.4196,2024-01
+2024-09-05,RJ,Televendas,Varejo,Acessórios,Headset Pro,2,327.71,655.42,275.94,0.421,2024-09
+2024-02-27,SC,Online,Corporativo,Eletrônicos,Notebook Pro,6,3621.84,21731.04,3204.54,0.1475,2024-02
+2024-06-18,PE,Loja Física,Varejo,Eletrônicos,Notebook Pro,5,4214.49,21072.45,5495.65,0.2608,2024-06
+2024-01-06,PR,Televendas,Varejo,Móveis,Mesa Compacta,3,735.41,2206.23,622.83,0.2823,2024-01
+2024-10-12,PR,Online,Varejo,Móveis,Mesa Compacta,2,740.99,1481.98,410.42,0.2769,2024-10
+2024-03-08,BA,Loja Física,Varejo,Móveis,Cadeira Office,5,939.21,4696.05,1401.75,0.2985,2024-03
+2024-05-05,MG,Televendas,Varejo,Eletrônicos,Notebook Pro,1,4270.39,4270.39,1329.78,0.3114,2024-05
+2024-01-14,PE,Online,Corporativo,Eletrônicos,Notebook Pro,3,4588.05,13764.15,3554.73,0.2583,2024-01
+2024-09-20,SC,Marketplace,Varejo,Móveis,Cadeira Office,1,1066.8,1066.8,396.13,0.3713,2024-09
+2024-09-30,RJ,Loja Física,Corporativo,Eletrônicos,Smartphone X,5,3168.64,15843.2,4521.85,0.2854,2024-09
+2024-05-03,BA,Loja Física,Varejo,Móveis,Mesa Compacta,4,693.51,2774.04,763.32,0.2752,2024-05
+2024-02-22,RS,Online,Corporativo,Acessórios,Mouse Gamer,4,179.76,719.04,209.24,0.291,2024-02
+2024-03-05,PR,Online,Corporativo,Eletrônicos,Notebook Pro,5,4239.32,21196.6,6160.0,0.2906,2024-03
+2024-04-06,PE,Loja Física,Varejo,Acessórios,Headset Pro,1,327.4,753.0199999999999,159.206,0.21142333536957852,2024-04
+2024-06-13,RJ,Online,Corporativo,Acessórios,Mouse Gamer,3,206.68,620.04,227.04,0.3662,2024-06
+2024-09-19,SC,Online,Corporativo,Acessórios,Mouse Gamer,8,213.66,1709.28,670.16,0.3921,2024-09
+2024-02-05,MG,Televendas,Varejo,Eletrônicos,Notebook Pro,5,4255.64,21278.2,4759.15,0.2237,2024-02
+2024-09-07,BA,Marketplace,Varejo,Eletrônicos,Monitor 27,3,1501.84,4505.52,1459.14,0.3239,2024-09
+2024-02-22,PE,Marketplace,Varejo,Eletrônicos,Notebook Pro,2,4711.82,9423.64,2720.14,0.2887,2024-02
+2024-05-24,PR,Televendas,Varejo,Eletrônicos,Smartphone X,4,2916.0,11664.0,3383.6,0.2901,2024-05
+2024-08-10,SC,Marketplace,Varejo,Acessórios,Headset Pro,4,362.51,1450.04,701.76,0.484,2024-08
+2024-05-12,RJ,Marketplace,Corporativo,Eletrônicos,Smartphone X,8,2816.01,22528.08,5240.88,0.2326,2024-05
+2024-07-08,PR,Online,Varejo,Acessórios,Headset Pro,7,309.6,2167.2,834.12,0.3849,2024-07
+2024-09-12,MG,Marketplace,Corporativo,Eletrônicos,Monitor 27,8,1616.13,12929.04,4382.56,0.339,2024-09
+2024-06-27,SP,Televendas,Corporativo,Acessórios,Headset Pro,4,331.0,1324.0,567.88,0.4289,2024-06
+2024-04-09,BA,Loja Física,Varejo,Móveis,Mesa Compacta,6,684.28,4105.68,1027.98,0.2504,2024-04
+2024-10-29,RJ,Online,Varejo,Móveis,Cadeira Office,7,964.67,6752.69,1827.35,0.2706,2024-10
+2024-02-14,PE,Televendas,Varejo,Acessórios,Mouse Gamer,2,194.52,389.04,152.72,0.3926,2024-02
+2024-04-13,BA,Televendas,Varejo,Acessórios,Teclado Mecânico,2,391.22,782.44,278.54,0.356,2024-04
+2024-07-23,SC,Online,Varejo,Móveis,Mesa Compacta,5,700.36,3501.8,1035.1,0.2956,2024-07
+2024-08-21,MG,Marketplace,Corporativo,Eletrônicos,Monitor 27,6,1330.3,7981.8,927.54,0.1162,2024-08
+2024-05-15,PR,Online,Varejo,Acessórios,Headset Pro,4,339.46,1357.84,546.64,0.4026,2024-05
+2024-02-25,SC,Televendas,Corporativo,Eletrônicos,Notebook Pro,2,4321.56,8643.12,2100.84,0.2431,2024-02
+2024-08-14,PR,Marketplace,Varejo,Móveis,Mesa Compacta,6,811.05,4866.3,1737.18,0.357,2024-08
+2024-04-04,RJ,Marketplace,Varejo,Acessórios,Teclado Mecânico,5,403.21,2016.05,864.65,0.4289,2024-04
+2024-07-07,PE,Loja Física,Varejo,Móveis,Mesa Compacta,1,722.68,722.68,158.66,0.2195,2024-07
+2024-03-02,PE,Televendas,Varejo,Eletrônicos,Smartphone X,3,3049.63,9148.89,2709.15,0.2961,2024-03
+2024-09-02,RS,Marketplace,Varejo,Eletrônicos,Smartphone X,7,2899.51,20296.57,5804.26,0.286,2024-09
+2024-07-30,BA,Loja Física,Varejo,Móveis,Mesa Compacta,3,751.84,5187.696,706.3874999999999,0.13616593956160883,2024-07
+2024-01-17,PR,Televendas,Corporativo,Acessórios,Headset Pro,2,344.89,689.78,302.22,0.4381,2024-01
+2024-10-22,SP,Marketplace,Corporativo,Acessórios,Teclado Mecânico,9,401.51,3613.59,1670.67,0.4623,2024-10
+2024-08-14,RJ,Online,Varejo,Eletrônicos,Monitor 27,6,1324.78,7948.68,1584.84,0.1994,2024-08
+2024-09-15,SP,Loja Física,Varejo,Acessórios,Mouse Gamer,6,206.45,1238.7,535.08,0.432,2024-09
+2024-09-10,MG,Loja Física,Varejo,Acessórios,Headset Pro,5,288.86,1444.3,481.15,0.3331,2024-09
+2024-10-27,PR,Marketplace,Corporativo,Acessórios,Mouse Gamer,6,209.4,1256.4,522.78,0.4161,2024-10
+2024-01-10,PE,Marketplace,Varejo,Acessórios,Teclado Mecânico,4,431.55,1726.2,818.96,0.4744,2024-01
+2024-01-22,PE,Marketplace,Corporativo,Eletrônicos,Smartphone X,7,2755.73,19290.11,4094.93,0.2123,2024-01
+2024-04-14,MG,Televendas,Varejo,Móveis,Cadeira Office,6,1041.67,6250.02,2271.6,0.3635,2024-04
+2024-10-01,RJ,Online,Varejo,Eletrônicos,Notebook Pro,5,4390.0,21950.0,6557.4,0.2987,2024-10
+2024-09-27,SC,Loja Física,Varejo,Eletrônicos,Monitor 27,2,1417.95,2835.9,837.76,0.2954,2024-09
+2024-09-29,PR,Televendas,Corporativo,Acessórios,Headset Pro,4,334.22,1336.88,521.84,0.3903,2024-09
+2024-06-28,SC,Online,Varejo,Móveis,Cadeira Office,5,1040.19,5200.95,1676.95,0.3224,2024-06
+2024-02-08,MG,Online,Varejo,Eletrônicos,Notebook Pro,6,4318.26,25909.56,8177.88,0.3156,2024-02
+2024-03-10,SP,Televendas,Corporativo,Eletrônicos,Notebook Pro,1,4583.77,4583.77,1514.75,0.3305,2024-03
+2024-06-17,MG,Televendas,Varejo,Acessórios,Mouse Gamer,7,203.93,1427.51,500.22,0.3504,2024-06
+2024-05-30,RJ,Loja Física,Varejo,Eletrônicos,Monitor 27,5,1515.96,7579.8,2662.55,0.3513,2024-05
+2024-11-24,PR,Loja Física,Corporativo,Acessórios,Teclado Mecânico,9,442.34,3981.06,1946.52,0.4889,2024-11
+2024-10-26,SP,Televendas,Varejo,Acessórios,Headset Pro,8,303.83,2430.64,986.56,0.4059,2024-10
+2024-01-28,RJ,Loja Física,Varejo,Móveis,Cadeira Office,4,943.59,3774.36,987.52,0.2616,2024-01
+2024-03-28,RJ,Online,Varejo,Acessórios,Headset Pro,5,306.68,1533.4,471.2,0.3073,2024-03
+2024-01-03,SC,Televendas,Corporativo,Acessórios,Teclado Mecânico,5,434.48,2172.4,1004.25,0.4623,2024-01
+2024-12-27,SP,Loja Física,Varejo,Móveis,Cadeira Office,9,977.75,8799.75,2219.58,0.2522,2024-12
+2024-07-25,RS,Loja Física,Corporativo,Eletrônicos,Notebook Pro,3,3969.65,11908.95,1735.62,0.1457,2024-07
+2024-07-11,BA,Marketplace,Varejo,Acessórios,Mouse Gamer,7,211.31,1479.17,626.78,0.4237,2024-07
+2024-06-04,PE,Marketplace,Varejo,Eletrônicos,Smartphone X,4,2581.94,10327.76,1480.64,0.1434,2024-06
+2024-09-16,RJ,Televendas,Varejo,Acessórios,Headset Pro,1,326.28,326.28,134.68,0.4128,2024-09
+2024-03-13,SP,Loja Física,Varejo,Eletrônicos,Smartphone X,3,2694.68,8084.04,1981.53,0.2451,2024-03
+2024-12-13,RS,Televendas,Varejo,Móveis,Mesa Compacta,6,766.07,4596.42,1406.04,0.3059,2024-12
+2024-02-29,SP,Online,Varejo,Eletrônicos,Notebook Pro,5,4082.06,20410.3,3366.35,0.1649,2024-02
+2024-09-16,SC,Marketplace,Varejo,Eletrônicos,Smartphone X,5,2689.13,13445.65,2080.0,0.1547,2024-09
+2024-08-30,MG,Loja Física,Varejo,Eletrônicos,Monitor 27,2,1657.12,3314.24,1354.08,0.4086,2024-08
+2024-07-16,PE,Online,Varejo,Acessórios,Teclado Mecânico,4,382.89,1531.56,602.52,0.3934,2024-07
+2024-09-12,SP,Loja Física,Varejo,Móveis,Cadeira Office,8,971.75,7774.0,2736.4,0.352,2024-09
+2024-11-24,RJ,Televendas,Varejo,Eletrônicos,Monitor 27,4,1693.32,6773.28,2725.08,0.4023,2024-11
+2024-04-18,MG,Online,Varejo,Acessórios,Teclado Mecânico,3,307.61,922.83,216.45,0.2346,2024-04
+2024-04-17,RS,Loja Física,Varejo,Acessórios,Mouse Gamer,4,200.84,803.36,320.92,0.3995,2024-04
+2024-01-24,PR,Online,Varejo,Eletrônicos,Smartphone X,3,2775.55,8326.65,1571.34,0.1887,2024-01
+2024-09-19,PE,Online,Varejo,Acessórios,Headset Pro,3,299.08,897.24,323.25,0.3603,2024-09
+2024-12-19,MG,Marketplace,Varejo,Eletrônicos,Monitor 27,3,1426.94,4280.82,1140.9,0.2665,2024-12
+2024-01-20,BA,Televendas,Corporativo,Acessórios,Teclado Mecânico,4,388.05,1552.2,626.0,0.4033,2024-01
+2024-09-29,RS,Loja Física,Corporativo,Móveis,Cadeira Office,5,874.7,4373.5,893.5,0.2043,2024-09
+2024-06-02,SP,Online,Corporativo,Acessórios,Teclado Mecânico,7,369.05,2583.35,1027.74,0.3978,2024-06
+2024-05-06,MG,Online,Varejo,Eletrônicos,Smartphone X,5,3013.63,15068.15,3606.6,0.2394,2024-05
+2024-03-15,MG,Online,Varejo,Eletrônicos,Monitor 27,5,1467.48,7337.4,2211.95,0.3015,2024-03
+2024-09-02,PE,Online,Varejo,Acessórios,Headset Pro,5,336.06,1680.3,779.45,0.4639,2024-09
+2024-04-03,SP,Televendas,Varejo,Eletrônicos,Monitor 27,2,1641.71,3283.42,1262.2,0.3844,2024-04
+2024-04-04,PE,Loja Física,Varejo,Acessórios,Headset Pro,1,286.93,286.93,97.95,0.3414,2024-04
+2024-01-10,RJ,Marketplace,Varejo,Eletrônicos,Notebook Pro,7,4511.66,31581.62,9587.62,0.3036,2024-01
+2024-08-02,BA,Loja Física,Corporativo,Eletrônicos,Monitor 27,6,1364.61,8187.66,1924.86,0.2351,2024-08
+2024-10-03,PE,Marketplace,Varejo,Eletrônicos,Monitor 27,1,1560.5,1560.5,521.69,0.3343,2024-10
+2024-04-16,PR,Televendas,Varejo,Acessórios,Teclado Mecânico,4,344.02,1376.08,354.84,0.2579,2024-04
+2024-10-02,SP,Televendas,Varejo,Eletrônicos,Notebook Pro,4,4761.06,19044.24,6448.56,0.3386,2024-10
+2024-09-22,PR,Online,Varejo,Acessórios,Mouse Gamer,2,231.12,462.24,212.76,0.4603,2024-09
+2024-03-06,BA,Loja Física,Varejo,Móveis,Mesa Compacta,3,739.5,2218.5,573.09,0.2583,2024-03
+2024-03-10,PR,Televendas,Varejo,Eletrônicos,Smartphone X,4,3000.77,12003.08,4258.76,0.3548,2024-03
+2024-04-05,SP,Marketplace,Varejo,Móveis,Mesa Compacta,5,700.11,3500.55,713.55,0.2038,2024-04
+2024-12-27,PE,Televendas,Varejo,Acessórios,Mouse Gamer,2,203.24,406.48,186.5,0.4588,2024-12
+2024-06-16,PE,Online,Varejo,Eletrônicos,Monitor 27,5,1352.36,6761.8,1787.4,0.2643,2024-06
+2024-01-06,SP,Marketplace,Varejo,Acessórios,Headset Pro,8,315.1,2520.8,967.04,0.3836,2024-01
+2024-09-13,BA,Online,Corporativo,Acessórios,Teclado Mecânico,1,322.22,322.22,98.75,0.3065,2024-09
+2024-10-14,RJ,Televendas,Varejo,Móveis,Mesa Compacta,4,824.4,3297.6,1182.96,0.3587,2024-10
+2024-09-22,SP,Marketplace,Corporativo,Eletrônicos,Smartphone X,8,3343.37,26746.96,11968.24,0.4475,2024-09
+2024-01-08,PE,Marketplace,Varejo,Móveis,Cadeira Office,3,921.14,2763.42,622.86,0.2254,2024-01
+2024-06-07,RJ,Televendas,Varejo,Eletrônicos,Notebook Pro,5,4026.17,20130.85,4907.75,0.2438,2024-06
+2024-08-15,MG,Televendas,Varejo,Eletrônicos,Smartphone X,1,3002.02,3002.02,938.95,0.3128,2024-08
+2024-05-19,RS,Marketplace,Corporativo,Móveis,Cadeira Office,5,956.86,4784.3,1479.65,0.3093,2024-05
+2024-11-02,MG,Televendas,Varejo,Eletrônicos,Notebook Pro,6,4051.36,24308.16,5293.02,0.2177,2024-11
+2024-07-23,RS,Televendas,Varejo,Eletrônicos,Monitor 27,3,1333.4,4000.2,1055.76,0.2639,2024-07
+2024-04-13,SP,Marketplace,Corporativo,Móveis,Cadeira Office,9,1027.92,9251.28,2975.94,0.3217,2024-04
+2024-09-26,MG,Loja Física,Corporativo,Acessórios,Headset Pro,6,282.52,1695.12,549.54,0.3242,2024-09
+2024-06-13,SP,Marketplace,Varejo,Móveis,Mesa Compacta,5,838.29,4191.45,1692.05,0.4037,2024-06
+2024-05-24,RJ,Televendas,Corporativo,Eletrônicos,Notebook Pro,4,3804.53,15218.12,2550.56,0.1676,2024-05
+2024-05-04,BA,Televendas,Varejo,Acessórios,Teclado Mecânico,2,420.07,840.14,357.26,0.4252,2024-05
+2024-05-19,SC,Online,Varejo,Acessórios,Headset Pro,5,311.8,1559.0,658.75,0.4225,2024-05
+2024-05-01,SC,Loja Física,Varejo,Acessórios,Teclado Mecânico,3,399.32,1197.96,508.35,0.4243,2024-05
+2024-04-03,RJ,Televendas,Varejo,Eletrônicos,Notebook Pro,4,4245.47,16981.88,4900.24,0.2886,2024-04
+2024-07-12,PE,Online,Varejo,Acessórios,Teclado Mecânico,4,401.58,1606.32,732.72,0.4561,2024-07
+2024-04-19,PE,Televendas,Varejo,Acessórios,Headset Pro,1,315.6,315.6,127.92,0.4053,2024-04
+2024-12-24,SP,Online,Varejo,Móveis,Mesa Compacta,8,821.12,6568.96,2353.44,0.3583,2024-12
+2024-03-15,SC,Marketplace,Varejo,Acessórios,Headset Pro,6,290.43,1742.58,521.16,0.2991,2024-03
+2024-02-25,RJ,Loja Física,Varejo,Acessórios,Teclado Mecânico,2,375.15,750.3,247.48,0.3298,2024-02
+2024-03-28,SP,Online,Corporativo,Eletrônicos,Smartphone X,6,2820.91,16925.46,4101.3,0.2423,2024-03
+2024-03-18,BA,Online,Varejo,Eletrônicos,Smartphone X,4,2802.47,11209.88,3206.92,0.2861,2024-03
+2024-05-07,PR,Televendas,Corporativo,Acessórios,Mouse Gamer,2,205.89,411.78,183.58,0.4458,2024-05
+2024-02-24,BA,Marketplace,Varejo,Acessórios,Mouse Gamer,1,201.96,201.96,67.65,0.335,2024-02
+2024-03-11,SC,Online,Varejo,Móveis,Cadeira Office,5,930.75,4653.75,1353.05,0.2907,2024-03
+2024-08-09,PR,Televendas,Varejo,Eletrônicos,Smartphone X,3,2648.97,7946.91,1653.21,0.208,2024-08
+2024-05-09,SP,Online,Corporativo,Acessórios,Headset Pro,8,302.3,2418.4,753.44,0.3115,2024-05
+2024-08-30,MG,Televendas,Corporativo,Eletrônicos,Smartphone X,3,2952.15,8856.45,2415.36,0.2727,2024-08
+2024-03-30,RJ,Televendas,Varejo,Acessórios,Headset Pro,5,328.49,1642.45,594.25,0.3618,2024-03
+2024-08-26,RS,Online,Varejo,Eletrônicos,Smartphone X,5,2751.69,13758.45,4038.25,0.2935,2024-08
+2024-05-02,SP,Televendas,Varejo,Acessórios,Teclado Mecânico,3,373.6,1120.8,359.55,0.3208,2024-05
+2024-01-08,RS,Loja Física,Corporativo,Eletrônicos,Monitor 27,8,1411.67,11293.36,3231.84,0.2862,2024-01
+2024-10-16,PR,Online,Varejo,Acessórios,Teclado Mecânico,5,384.57,1922.85,815.6,0.4242,2024-10
+2024-09-02,SP,Marketplace,Corporativo,Eletrônicos,Notebook Pro,6,4381.66,26289.96,6755.88,0.257,2024-09
+2024-09-18,BA,Televendas,Varejo,Móveis,Mesa Compacta,1,673.01,673.01,171.67,0.2551,2024-09
+2024-02-08,PE,Televendas,Varejo,Eletrônicos,Monitor 27,3,1565.88,4697.64,1784.88,0.38,2024-02
+2024-05-15,SP,Marketplace,Varejo,Móveis,Mesa Compacta,6,786.22,4717.32,1468.5,0.3113,2024-05
+2024-02-28,BA,Marketplace,Corporativo,Acessórios,Teclado Mecânico,3,434.71,1304.13,631.83,0.4845,2024-02
+2024-01-18,RS,Televendas,Corporativo,Acessórios,Headset Pro,6,318.91,1913.46,748.98,0.3914,2024-01
+2024-11-05,PE,Online,Varejo,Acessórios,Mouse Gamer,6,216.82,1300.92,565.86,0.435,2024-11
+2024-07-06,BA,Loja Física,Varejo,Acessórios,Teclado Mecânico,1,409.88,409.88,189.81,0.4631,2024-07
+2024-03-29,PR,Online,Varejo,Acessórios,Headset Pro,4,317.93,1271.72,596.32,0.4689,2024-03
+2024-03-20,BA,Marketplace,Varejo,Móveis,Mesa Compacta,7,721.61,5051.27,1393.14,0.2758,2024-03
+2024-05-27,BA,Online,Varejo,Móveis,Mesa Compacta,5,689.13,3445.65,1020.2,0.2961,2024-05
+2024-05-18,SP,Loja Física,Corporativo,Móveis,Cadeira Office,5,916.2,4581.0,1092.75,0.2385,2024-05
+2024-12-24,BA,Online,Corporativo,Móveis,Mesa Compacta,6,753.89,4523.34,1316.88,0.2911,2024-12
+2024-11-28,PR,Marketplace,Varejo,Móveis,Mesa Compacta,7,684.25,4789.75,1017.59,0.2125,2024-11
+2024-01-26,PE,Online,Varejo,Móveis,Cadeira Office,3,1001.01,3003.03,832.35,0.2772,2024-01
+2024-06-18,SP,Marketplace,Varejo,Acessórios,Mouse Gamer,5,247.76,1238.8,608.45,0.4912,2024-06
+2024-06-24,SP,Online,Corporativo,Eletrônicos,Smartphone X,6,3065.16,18390.96,6012.84,0.3269,2024-06
+2024-05-30,RJ,Online,Varejo,Eletrônicos,Notebook Pro,4,4106.73,16426.92,3625.52,0.2207,2024-05
+2024-07-27,BA,Televendas,Varejo,Móveis,Mesa Compacta,1,634.61,634.61,154.32,0.2432,2024-07
+2024-08-14,BA,Marketplace,Varejo,Eletrônicos,Notebook Pro,5,4266.38,21331.9,5240.9,0.2457,2024-08
+2024-04-20,BA,Marketplace,Varejo,Eletrônicos,Monitor 27,5,1547.26,7736.3,2499.1,0.323,2024-04
+2024-06-18,SC,Marketplace,Varejo,Acessórios,Headset Pro,3,289.11,867.33,307.59,0.3546,2024-06
+2024-09-16,PR,Loja Física,Corporativo,Acessórios,Mouse Gamer,3,210.25,630.75,301.41,0.4779,2024-09
+2024-04-16,RJ,Marketplace,Varejo,Eletrônicos,Monitor 27,6,1524.72,9148.32,3234.36,0.3535,2024-04
+2024-02-21,SP,Online,Varejo,Eletrônicos,Monitor 27,3,1580.79,4742.37,1927.62,0.4065,2024-02
+2024-11-29,BA,Loja Física,Varejo,Eletrônicos,Notebook Pro,5,4069.5,20347.5,4897.1,0.2407,2024-11
+2024-10-08,PR,Online,Varejo,Móveis,Cadeira Office,5,1047.85,5239.25,1773.15,0.3384,2024-10
+2024-03-10,PR,Televendas,Varejo,Eletrônicos,Notebook Pro,3,4010.85,12032.55,2303.04,0.1914,2024-03
+2024-07-06,BA,Loja Física,Varejo,Acessórios,Headset Pro,4,307.94,1231.76,375.2,0.3046,2024-07
+2024-10-30,RS,Televendas,Corporativo,Acessórios,Teclado Mecânico,6,359.05,2154.3,804.6,0.3735,2024-10
+2024-12-31,PE,Televendas,Corporativo,Acessórios,Teclado Mecânico,5,378.62,1893.1,726.1,0.3836,2024-12
+2024-08-08,RS,Loja Física,Corporativo,Móveis,Mesa Compacta,5,752.87,3764.35,1086.65,0.2887,2024-08
+2024-02-19,SC,Loja Física,Varejo,Móveis,Mesa Compacta,1,656.87,656.87,140.89,0.2145,2024-02
+2024-02-05,BA,Marketplace,Varejo,Móveis,Cadeira Office,5,1011.0,5055.0,1648.85,0.3262,2024-02
+2024-02-10,PE,Marketplace,Varejo,Acessórios,Headset Pro,3,316.78,950.34,357.63,0.3763,2024-02
+2024-01-10,PR,Marketplace,Varejo,Acessórios,Headset Pro,6,309.07,1854.42,706.98,0.3812,2024-01
+2024-04-29,MG,Marketplace,Varejo,Eletrônicos,Notebook Pro,5,4728.67,23643.35,8267.35,0.3497,2024-04
+2024-07-18,PR,Marketplace,Corporativo,Móveis,Cadeira Office,6,924.77,5548.62,1776.24,0.3201,2024-07
+2024-07-15,RJ,Online,Varejo,Eletrônicos,Smartphone X,5,3009.12,15045.6,5151.65,0.3424,2024-07
+2024-12-25,RJ,Televendas,Varejo,Móveis,Cadeira Office,6,1030.14,6180.84,1929.54,0.3122,2024-12
+2024-01-13,MG,Marketplace,Varejo,Eletrônicos,Smartphone X,3,2923.54,8770.62,2192.94,0.25,2024-01
+2024-07-22,RS,Online,Corporativo,Móveis,Mesa Compacta,3,777.09,2331.27,752.22,0.3227,2024-07
+2024-03-11,BA,Online,Varejo,Eletrônicos,Monitor 27,4,1553.85,6215.4,2152.68,0.3463,2024-03
+2024-01-28,MG,Loja Física,Varejo,Eletrônicos,Smartphone X,4,2910.92,11643.68,3326.28,0.2857,2024-01
+2024-05-11,SP,Marketplace,Corporativo,Acessórios,Teclado Mecânico,9,357.51,3217.59,1192.32,0.3706,2024-05
+2024-12-22,SC,Loja Física,Varejo,Eletrônicos,Monitor 27,6,1454.13,8724.78,2418.96,0.2773,2024-12
+2024-11-17,MG,Online,Corporativo,Móveis,Mesa Compacta,9,747.87,6730.83,2043.36,0.3036,2024-11
+2024-10-14,RS,Online,Varejo,Eletrônicos,Notebook Pro,6,4075.46,24452.76,5542.14,0.2266,2024-10
+2024-02-24,PR,Televendas,Varejo,Móveis,Cadeira Office,5,1076.65,5383.25,2207.7,0.4101,2024-02
+2024-06-09,MG,Televendas,Varejo,Eletrônicos,Notebook Pro,5,4759.85,23799.25,8356.15,0.3511,2024-06
+2024-02-11,RJ,Marketplace,Varejo,Móveis,Mesa Compacta,6,835.81,5014.86,2215.62,0.4418,2024-02
+2024-08-25,RS,Online,Varejo,Acessórios,Headset Pro,4,338.81,1355.24,583.2,0.4303,2024-08
+2024-08-18,MG,Online,Varejo,Eletrônicos,Notebook Pro,3,4473.72,13421.16,4220.7,0.3145,2024-08
+2024-08-24,PR,Loja Física,Varejo,Acessórios,Mouse Gamer,4,225.93,903.72,416.84,0.4612,2024-08
+2024-08-30,RS,Marketplace,Varejo,Acessórios,Mouse Gamer,6,211.7,1270.2,584.82,0.4604,2024-08
+2024-02-21,PE,Marketplace,Corporativo,Móveis,Mesa Compacta,4,848.65,3394.6,1148.48,0.3383,2024-02
+2024-08-11,SP,Online,Varejo,Eletrônicos,Monitor 27,9,1385.45,12469.05,2776.77,0.2227,2024-08
+2024-11-18,SC,Televendas,Corporativo,Eletrônicos,Notebook Pro,4,4061.44,16245.76,2982.28,0.1836,2024-11
+2024-11-29,SP,Marketplace,Corporativo,Eletrônicos,Smartphone X,7,2750.42,19252.94,4850.23,0.2519,2024-11
+2024-02-02,BA,Online,Varejo,Eletrônicos,Smartphone X,2,2871.14,5742.28,1688.88,0.2941,2024-02
+2024-03-24,RS,Marketplace,Varejo,Eletrônicos,Monitor 27,6,1363.18,8179.08,1489.68,0.1821,2024-03
+2024-05-01,SP,Marketplace,Corporativo,Móveis,Mesa Compacta,10,822.85,8228.5,2943.5,0.3577,2024-05
+2024-07-13,BA,Marketplace,Varejo,Acessórios,Headset Pro,4,347.78,1391.12,584.68,0.4203,2024-07
+2024-03-13,SP,Online,Corporativo,Eletrônicos,Monitor 27,7,1466.5,10265.5,2595.81,0.2529,2024-03
+2024-08-31,RJ,Loja Física,Varejo,Eletrônicos,Smartphone X,5,2531.8,12659.0,1651.0,0.1304,2024-08
+2024-08-27,PE,Online,Corporativo,Eletrônicos,Smartphone X,7,2461.09,17227.63,2962.12,0.1719,2024-08
+2024-10-22,MG,Online,Varejo,Acessórios,Headset Pro,3,296.43,889.29,323.46,0.3637,2024-10
+2024-06-10,SC,Marketplace,Corporativo,Acessórios,Teclado Mecânico,4,374.65,1498.6,600.08,0.4004,2024-06
+2024-11-25,PE,Televendas,Varejo,Acessórios,Headset Pro,3,328.99,986.97,468.87,0.4751,2024-11
+2024-03-27,RS,Televendas,Varejo,Acessórios,Mouse Gamer,3,228.97,686.91,343.35,0.4998,2024-03
+2024-11-05,BA,Loja Física,Varejo,Eletrônicos,Smartphone X,5,3186.71,15933.55,4795.3,0.301,2024-11
+2024-11-01,PR,Televendas,Corporativo,Eletrônicos,Monitor 27,6,1468.28,8809.68,2791.5,0.3169,2024-11
+2024-02-22,PR,Televendas,Varejo,Acessórios,Mouse Gamer,4,221.4,885.6,403.56,0.4557,2024-02
+2024-11-04,SP,Marketplace,Varejo,Eletrônicos,Monitor 27,8,1506.42,12051.36,3819.44,0.3169,2024-11
+2024-03-29,SC,Televendas,Varejo,Móveis,Cadeira Office,1,961.49,961.49,383.72,0.3991,2024-03
+2024-01-14,RS,Televendas,Varejo,Acessórios,Mouse Gamer,4,201.1,804.4,332.32,0.4131,2024-01
+2024-07-07,RJ,Marketplace,Varejo,Acessórios,Teclado Mecânico,1,390.16,390.16,157.45,0.4036,2024-07
+2024-03-28,BA,Online,Varejo,Eletrônicos,Smartphone X,3,2511.96,7535.88,1470.54,0.1951,2024-03
+2024-04-21,RS,Televendas,Varejo,Acessórios,Headset Pro,1,307.96,307.96,123.44,0.4008,2024-04
+2024-05-28,PE,Online,Varejo,Eletrônicos,Monitor 27,3,1351.2,4053.6,925.53,0.2283,2024-05
+2024-11-14,RS,Televendas,Corporativo,Acessórios,Headset Pro,4,310.43,1241.72,460.64,0.371,2024-11
+2024-10-05,RJ,Loja Física,Varejo,Acessórios,Headset Pro,3,314.21,942.63,394.83,0.4189,2024-10
+2024-04-28,RS,Marketplace,Corporativo,Móveis,Mesa Compacta,5,695.27,3476.35,690.0,0.1985,2024-04
+2024-01-29,RJ,Televendas,Corporativo,Acessórios,Mouse Gamer,6,198.59,1191.54,434.64,0.3648,2024-01
+2024-02-27,MG,Televendas,Varejo,Móveis,Mesa Compacta,4,733.1,2932.4,1000.4,0.3412,2024-02
+2024-01-08,RS,Online,Varejo,Eletrônicos,Smartphone X,5,3119.23,15596.15,5599.6,0.359,2024-01
+2024-08-10,MG,Televendas,Varejo,Eletrônicos,Monitor 27,5,1447.32,7236.6,2307.15,0.3188,2024-08
+2024-11-24,BA,Televendas,Corporativo,Móveis,Mesa Compacta,10,835.32,8353.2,3480.1,0.4166,2024-11
+2024-01-05,RJ,Televendas,Varejo,Eletrônicos,Smartphone X,4,2779.17,11116.68,2950.04,0.2654,2024-01
+2024-08-04,PR,Televendas,Varejo,Acessórios,Headset Pro,6,334.12,2004.72,879.06,0.4385,2024-08
+2024-10-05,PE,Marketplace,Varejo,Acessórios,Teclado Mecânico,1,404.99,404.99,175.89,0.4343,2024-10
+2024-07-26,PR,Online,Corporativo,Eletrônicos,Smartphone X,6,2978.64,17871.84,5723.34,0.3202,2024-07
+2024-04-06,RJ,Loja Física,Varejo,Eletrônicos,Monitor 27,6,1671.37,10028.22,3720.66,0.371,2024-04
+2024-05-27,RJ,Televendas,Corporativo,Acessórios,Headset Pro,5,315.62,1578.1,684.4,0.4337,2024-05
+2024-10-29,PE,Televendas,Corporativo,Acessórios,Mouse Gamer,6,214.6,1287.6,564.66,0.4385,2024-10
+2024-08-23,PE,Marketplace,Varejo,Móveis,Cadeira Office,4,1053.42,4213.68,1429.0,0.3391,2024-08
+2024-04-27,BA,Televendas,Varejo,Eletrônicos,Notebook Pro,1,5179.26,5179.26,1764.51,0.3407,2024-04
+2024-03-21,RJ,Marketplace,Varejo,Eletrônicos,Smartphone X,9,2924.88,26323.92,8269.02,0.3141,2024-03
+2024-07-02,SP,Marketplace,Corporativo,Móveis,Mesa Compacta,7,712.48,4987.36,1544.55,0.3097,2024-07
+2024-06-01,SP,Televendas,Varejo,Acessórios,Headset Pro,4,371.63,1486.52,831.56,0.5594,2024-06
+2024-06-26,PE,Online,Varejo,Eletrônicos,Smartphone X,6,3070.56,18423.36,6645.6,0.3607,2024-06
+2024-05-27,SP,Loja Física,Corporativo,Eletrônicos,Smartphone X,7,2660.04,18620.28,4324.39,0.2322,2024-05
+2024-04-16,SC,Loja Física,Varejo,Eletrônicos,Notebook Pro,4,3993.49,15973.96,3374.52,0.2113,2024-04
+2024-01-18,SP,Online,Varejo,Eletrônicos,Monitor 27,5,1415.07,7075.35,1734.65,0.2452,2024-01
+2024-11-06,BA,Online,Varejo,Móveis,Mesa Compacta,3,627.02,1881.06,296.04,0.1574,2024-11
+2024-03-15,RS,Marketplace,Varejo,Acessórios,Teclado Mecânico,4,397.37,1589.48,-255.02399999999997,-0.16044492538440241,2024-03
+2024-10-03,SC,Loja Física,Varejo,Acessórios,Teclado Mecânico,4,388.83,1555.32,680.04,0.4372,2024-10
+2024-02-17,PR,Marketplace,Varejo,Acessórios,Headset Pro,3,290.06,870.18,310.83,0.3572,2024-02
+2024-03-25,RS,Televendas,Varejo,Móveis,Mesa Compacta,4,746.96,2987.84,887.84,0.2972,2024-03
+2024-08-05,SC,Marketplace,Varejo,Acessórios,Mouse Gamer,5,204.43,1022.15,404.95,0.3962,2024-08
+2024-02-18,SP,Loja Física,Varejo,Acessórios,Mouse Gamer,7,205.59,1439.13,656.67,0.4563,2024-02
+2024-12-30,PR,Televendas,Varejo,Eletrônicos,Smartphone X,2,3077.84,6155.68,1649.44,0.268,2024-12
+2024-10-18,PR,Marketplace,Corporativo,Eletrônicos,Monitor 27,6,1322.82,7936.92,2395.02,0.3018,2024-10
+2024-11-21,PE,Online,Varejo,Eletrônicos,Notebook Pro,5,4231.66,21158.3,5887.35,0.2783,2024-11
+2024-08-07,RJ,Televendas,Corporativo,Eletrônicos,Smartphone X,4,3011.19,12044.76,4125.92,0.3425,2024-08
+2024-05-15,MG,Online,Corporativo,Móveis,Cadeira Office,8,946.69,7573.52,1932.72,0.2552,2024-05
+2024-09-29,RJ,Televendas,Corporativo,Acessórios,Mouse Gamer,3,206.56,619.68,230.07,0.3713,2024-09
+2024-01-05,RJ,Marketplace,Varejo,Acessórios,Mouse Gamer,7,203.94,1427.58,644.84,0.4517,2024-01
+2024-10-25,PR,Televendas,Corporativo,Móveis,Mesa Compacta,5,836.57,4182.85,1505.6,0.3599,2024-10
+2024-03-13,SC,Televendas,Varejo,Acessórios,Headset Pro,5,314.6,1573.0,633.95,0.403,2024-03
+2024-11-01,SP,Marketplace,Varejo,Eletrônicos,Monitor 27,7,1462.46,10237.22,3512.95,0.3432,2024-11
+2024-11-08,RJ,Online,Corporativo,Acessórios,Headset Pro,7,321.36,5173.896,957.9499999999999,0.18515060990789145,2024-11
+2024-10-20,RS,Televendas,Corporativo,Móveis,Mesa Compacta,6,832.54,4995.24,2065.2,0.4134,2024-10
+2024-02-19,PR,Loja Física,Corporativo,Eletrônicos,Notebook Pro,4,4091.72,16366.88,3487.52,0.2131,2024-02
+2024-04-17,PR,Marketplace,Varejo,Acessórios,Headset Pro,6,338.78,2032.68,917.1,0.4512,2024-04
+2024-11-24,MG,Loja Física,Varejo,Acessórios,Mouse Gamer,3,241.04,723.12,343.44,0.4749,2024-11
+2024-11-08,RJ,Marketplace,Corporativo,Eletrônicos,Notebook Pro,10,4256.74,42567.4,12071.5,0.2836,2024-11
+2024-11-28,MG,Online,Varejo,Acessórios,Teclado Mecânico,6,405.72,2434.32,1016.7,0.4177,2024-11
+2024-03-16,MG,Marketplace,Varejo,Acessórios,Mouse Gamer,4,197.31,789.24,333.96,0.4231,2024-03
+2024-06-29,SP,Loja Física,Corporativo,Móveis,Cadeira Office,3,984.49,2953.47,885.18,0.2997,2024-06
+2024-07-04,RS,Televendas,Varejo,Eletrônicos,Notebook Pro,2,4313.18,8626.36,2002.9,0.2322,2024-07
+2024-03-24,RJ,Televendas,Varejo,Móveis,Mesa Compacta,5,799.72,3998.6,1257.1,0.3144,2024-03
+2024-02-20,BA,Loja Física,Varejo,Eletrônicos,Monitor 27,2,1365.38,2730.76,721.24,0.2641,2024-02
+2024-12-10,MG,Loja Física,Corporativo,Móveis,Mesa Compacta,4,702.79,2811.16,515.64,0.1834,2024-12
+2024-03-06,PR,Online,Varejo,Móveis,Mesa Compacta,7,789.57,5526.99,1947.47,0.3524,2024-03
+2024-09-11,RS,Online,Varejo,Acessórios,Teclado Mecânico,1,401.87,401.87,182.56,0.4543,2024-09
+2024-01-29,PR,Online,Corporativo,Acessórios,Teclado Mecânico,2,403.96,807.92,337.64,0.4179,2024-01
+2024-05-19,RJ,Loja Física,Corporativo,Acessórios,Headset Pro,8,323.11,2584.88,1033.84,0.4,2024-05
+2024-11-05,RJ,Marketplace,Varejo,Eletrônicos,Smartphone X,6,2657.52,15945.12,2425.14,0.1521,2024-11
+2024-10-02,PE,Marketplace,Varejo,Móveis,Mesa Compacta,4,748.26,2993.04,741.24,0.2477,2024-10
+2024-01-08,MG,Online,Varejo,Acessórios,Headset Pro,7,317.77,2224.39,951.16,0.4276,2024-01
+2024-02-27,RS,Online,Varejo,Eletrônicos,Notebook Pro,5,4544.15,22720.75,7212.25,0.3174,2024-02
+2024-01-30,RJ,Televendas,Varejo,Eletrônicos,Smartphone X,1,3121.99,3121.99,1108.57,0.3551,2024-01
+2024-08-14,RJ,Online,Varejo,Móveis,Mesa Compacta,5,640.75,3203.75,657.0,0.2051,2024-08
+2024-08-15,MG,Online,Varejo,Eletrônicos,Smartphone X,8,2209.11,17672.88,1435.76,0.0812,2024-08
+2024-01-20,BA,Online,Varejo,Eletrônicos,Notebook Pro,3,3924.74,11774.22,1963.32,0.1667,2024-01
+2024-08-15,RJ,Loja Física,Varejo,Acessórios,Headset Pro,4,297.46,1189.84,445.92,0.3748,2024-08
+2024-03-30,RS,Online,Varejo,Eletrônicos,Smartphone X,4,2722.93,10891.72,3384.24,0.3107,2024-03
+2024-10-23,PE,Televendas,Varejo,Acessórios,Teclado Mecânico,1,397.23,397.23,179.25,0.4512,2024-10
+2024-08-23,SP,Marketplace,Varejo,Eletrônicos,Smartphone X,6,3015.42,18092.52,6418.26,0.3547,2024-08
+2024-09-12,RJ,Online,Varejo,Móveis,Cadeira Office,4,1049.98,4199.92,1215.6,0.2894,2024-09
+2024-11-20,SP,Televendas,Varejo,Acessórios,Mouse Gamer,2,205.67,411.34,169.1,0.4111,2024-11
+2024-08-26,PE,Online,Varejo,Acessórios,Teclado Mecânico,6,399.16,2394.96,979.44,0.409,2024-08
+2024-08-02,SP,Loja Física,Varejo,Móveis,Cadeira Office,6,1000.54,6003.24,1641.24,0.2734,2024-08
+2024-05-08,RJ,Televendas,Varejo,Móveis,Cadeira Office,2,1073.54,2147.08,625.76,0.2914,2024-05
+2024-10-18,MG,Loja Física,Varejo,Acessórios,Teclado Mecânico,1,371.08,371.08,140.01,0.3773,2024-10
+2024-08-07,BA,Loja Física,Varejo,Acessórios,Teclado Mecânico,3,337.33,1011.99,311.43,0.3077,2024-08
+2024-08-20,SC,Marketplace,Varejo,Acessórios,Mouse Gamer,5,192.46,962.3,356.6,0.3706,2024-08
+2024-11-13,PE,Televendas,Varejo,Eletrônicos,Smartphone X,4,2777.6,11110.4,2703.44,0.2433,2024-11
+2024-01-19,PR,Marketplace,Varejo,Acessórios,Teclado Mecânico,6,386.11,2316.66,937.44,0.4047,2024-01
+2024-01-15,BA,Online,Varejo,Acessórios,Teclado Mecânico,1,386.63,386.63,154.82,0.4004,2024-01
+2024-09-08,PR,Online,Corporativo,Eletrônicos,Smartphone X,5,2875.61,14378.05,3320.95,0.231,2024-09
+2024-01-18,PR,Loja Física,Varejo,Acessórios,Teclado Mecânico,3,373.82,1121.46,471.63,0.4205,2024-01
+2024-06-25,BA,Loja Física,Corporativo,Acessórios,Headset Pro,7,322.16,2255.12,960.12,0.4258,2024-06
+2024-04-23,BA,Televendas,Corporativo,Acessórios,Mouse Gamer,1,224.96,224.96,103.13,0.4584,2024-04
+2024-02-12,PE,Online,Varejo,Acessórios,Teclado Mecânico,5,401.75,2008.75,961.2,0.4785,2024-02
+2024-12-13,SP,Loja Física,Varejo,Acessórios,Teclado Mecânico,7,419.78,2938.46,1248.17,0.4248,2024-12
+2024-08-08,PR,Televendas,Varejo,Acessórios,Mouse Gamer,4,222.59,890.36,396.96,0.4458,2024-08
+2024-01-31,SP,Televendas,Varejo,Acessórios,Mouse Gamer,5,231.85,1159.25,595.4,0.5136,2024-01
+2024-11-27,PE,Online,Varejo,Móveis,Mesa Compacta,4,705.53,2822.12,619.52,0.2195,2024-11
+2024-02-16,RJ,Televendas,Varejo,Eletrônicos,Notebook Pro,1,4053.58,4053.58,925.11,0.2282,2024-02
+2024-01-31,RS,Loja Física,Varejo,Eletrônicos,Notebook Pro,3,4670.43,14011.29,4843.77,0.3457,2024-01
+2024-02-18,MG,Online,Varejo,Móveis,Mesa Compacta,6,758.72,4552.32,1771.74,0.3892,2024-02
+2024-11-04,RJ,Online,Varejo,Acessórios,Mouse Gamer,4,206.5,826.0,348.32,0.4217,2024-11
+2024-04-02,PR,Online,Varejo,Móveis,Cadeira Office,5,939.5,4697.5,1026.75,0.2186,2024-04
+2024-11-27,RJ,Online,Corporativo,Eletrônicos,Notebook Pro,12,4817.3,57807.6,20085.0,0.3474,2024-11
+2024-08-21,PE,Loja Física,Varejo,Eletrônicos,Monitor 27,5,1521.4,7607.0,2408.1,0.3166,2024-08
+2024-08-21,RJ,Marketplace,Corporativo,Acessórios,Teclado Mecânico,8,408.77,3270.16,1557.36,0.4762,2024-08
+2024-04-24,PE,Loja Física,Varejo,Acessórios,Mouse Gamer,1,206.18,206.18,81.38,0.3947,2024-04
+2024-03-25,PR,Televendas,Corporativo,Acessórios,Teclado Mecânico,5,389.52,1947.6,774.45,0.3976,2024-03
+2024-07-31,PE,Online,Varejo,Eletrônicos,Notebook Pro,5,4571.11,22855.55,7571.7,0.3313,2024-07
+2024-02-23,RJ,Online,Corporativo,Acessórios,Headset Pro,5,310.35,1551.75,614.2,0.3958,2024-02
+2024-05-30,RJ,Loja Física,Varejo,Eletrônicos,Smartphone X,5,2665.83,13329.15,2962.75,0.2223,2024-05
+2024-09-28,SP,Marketplace,Corporativo,Acessórios,Teclado Mecânico,7,394.13,2758.91,1230.39,0.446,2024-09
+2024-09-28,MG,Televendas,Varejo,Eletrônicos,Monitor 27,6,1649.37,9896.22,4298.64,0.4344,2024-09
+2024-11-22,MG,Online,Varejo,Acessórios,Headset Pro,10,310.7,3107.0,1142.3,0.3677,2024-11
+2024-11-24,MG,Online,Corporativo,Acessórios,Teclado Mecânico,8,366.08,2928.64,1073.84,0.3667,2024-11
+2024-07-06,MG,Online,Varejo,Eletrônicos,Smartphone X,3,2557.6,7672.8,1372.56,0.1789,2024-07
+2024-10-08,SP,Marketplace,Varejo,Eletrônicos,Monitor 27,6,1518.64,9111.84,1922.76,0.211,2024-10
+2024-06-30,RJ,Marketplace,Varejo,Acessórios,Mouse Gamer,4,227.05,908.2,420.16,0.4626,2024-06
+2024-01-05,PR,Marketplace,Varejo,Eletrônicos,Smartphone X,1,3021.8,3021.8,952.72,0.3153,2024-01
+2024-04-03,SP,Televendas,Corporativo,Acessórios,Teclado Mecânico,9,428.65,3857.85,1935.63,0.5017,2024-04
+2024-03-03,SC,Online,Varejo,Acessórios,Mouse Gamer,3,215.59,646.77,282.99,0.4375,2024-03
+2024-10-16,MG,Televendas,Varejo,Móveis,Cadeira Office,3,978.76,2936.28,799.11,0.2722,2024-10
+2024-04-02,BA,Marketplace,Corporativo,Eletrônicos,Notebook Pro,7,4301.36,30109.52,6778.24,0.2251,2024-04
+2024-04-23,SC,Loja Física,Corporativo,Acessórios,Teclado Mecânico,7,422.85,2959.95,1402.52,0.4738,2024-04
+2024-01-19,SC,Televendas,Varejo,Acessórios,Headset Pro,3,332.07,996.21,406.02,0.4076,2024-01
+2024-11-30,RJ,Marketplace,Varejo,Acessórios,Headset Pro,5,328.77,1643.85,686.2,0.4174,2024-11
+2024-01-30,RJ,Online,Varejo,Eletrônicos,Smartphone X,1,2751.67,2751.67,587.35,0.2135,2024-01
+2024-07-03,SP,Loja Física,Corporativo,Acessórios,Teclado Mecânico,6,370.56,2223.36,898.74,0.4042,2024-07
+2024-08-09,BA,Online,Corporativo,Acessórios,Headset Pro,6,338.55,2031.3,933.9,0.4598,2024-08
+2024-05-26,SC,Online,Varejo,Eletrônicos,Notebook Pro,3,4463.04,13389.12,3498.96,0.2613,2024-05
+2024-08-24,BA,Televendas,Varejo,Acessórios,Headset Pro,1,332.72,332.72,145.28,0.4366,2024-08
+2024-11-26,BA,Televendas,Varejo,Acessórios,Headset Pro,6,365.32,2191.92,1046.28,0.4773,2024-11
+2024-03-24,PE,Marketplace,Varejo,Eletrônicos,Smartphone X,5,3219.92,16099.6,4713.3,0.2928,2024-03
+2024-05-07,RJ,Marketplace,Corporativo,Móveis,Mesa Compacta,8,743.93,5951.44,1586.4,0.2666,2024-05
+2024-11-06,SP,Loja Física,Corporativo,Acessórios,Headset Pro,8,306.43,2451.44,842.4,0.3436,2024-11
+2024-10-23,RS,Marketplace,Varejo,Acessórios,Teclado Mecânico,3,415.6,1246.8,638.25,0.5119,2024-10
+2024-06-15,RS,Marketplace,Varejo,Móveis,Mesa Compacta,2,695.45,1390.9,392.44,0.2821,2024-06
+2024-10-26,PR,Loja Física,Corporativo,Eletrônicos,Smartphone X,3,2340.81,7022.43,951.39,0.1355,2024-10
+2024-10-22,BA,Loja Física,Varejo,Acessórios,Teclado Mecânico,2,364.96,729.92,245.92,0.3369,2024-10
+2024-06-08,BA,Loja Física,Corporativo,Móveis,Mesa Compacta,5,793.06,3965.3,1165.8,0.294,2024-06
+2024-06-14,SC,Televendas,Corporativo,Móveis,Mesa Compacta,1,653.77,653.77,148.17,0.2266,2024-06
+2024-07-13,RJ,Televendas,Varejo,Acessórios,Teclado Mecânico,3,396.46,1189.38,495.06,0.4162,2024-07
+2024-01-17,RS,Loja Física,Varejo,Móveis,Cadeira Office,3,1109.55,3328.65,1251.0,0.3758,2024-01
+2024-05-02,SP,Televendas,Varejo,Eletrônicos,Monitor 27,1,1339.9,1339.9,227.66,0.1699,2024-05
+2024-02-19,SC,Televendas,Varejo,Acessórios,Mouse Gamer,2,186.96,373.92,152.7,0.4084,2024-02
+2024-01-25,BA,Televendas,Varejo,Móveis,Mesa Compacta,5,701.08,3505.4,810.95,0.2313,2024-01
+2024-02-17,MG,Televendas,Varejo,Eletrônicos,Smartphone X,1,2920.15,2920.15,719.14,0.2463,2024-02
+2024-09-15,SP,Televendas,Corporativo,Móveis,Cadeira Office,5,1001.28,5006.4,1638.6,0.3273,2024-09
+2024-11-16,MG,Loja Física,Varejo,Eletrônicos,Notebook Pro,6,4366.56,26199.36,7123.92,0.2719,2024-11
+2024-03-14,PE,Loja Física,Varejo,Acessórios,Headset Pro,4,291.85,1167.4,416.48,0.3568,2024-03
+2024-08-16,RJ,Loja Física,Varejo,Eletrônicos,Smartphone X,4,2710.12,10840.48,1261.72,0.1164,2024-08
+2024-11-17,PE,Marketplace,Corporativo,Acessórios,Headset Pro,9,289.93,2609.37,815.04,0.3124,2024-11
+2024-09-12,RJ,Loja Física,Corporativo,Móveis,Mesa Compacta,5,818.12,4090.6,1349.6,0.3299,2024-09
+2024-04-25,PE,Online,Varejo,Móveis,Cadeira Office,3,910.95,2732.85,618.24,0.2262,2024-04
+2024-05-05,BA,Televendas,Varejo,Móveis,Mesa Compacta,2,774.21,1548.42,576.76,0.3725,2024-05
+2024-08-22,MG,Loja Física,Varejo,Acessórios,Mouse Gamer,3,175.78,527.34,176.16,0.3341,2024-08
+2024-08-27,RS,Televendas,Corporativo,Eletrônicos,Notebook Pro,7,4126.89,28888.23,7975.45,0.2761,2024-08
+2024-04-01,MG,Loja Física,Varejo,Eletrônicos,Notebook Pro,11,4415.39,48569.29,15552.24,0.3202,2024-04
+2024-06-04,RJ,Marketplace,Varejo,Acessórios,Headset Pro,2,294.7,589.4,195.58,0.3318,2024-06
+2024-07-06,RJ,Loja Física,Varejo,Móveis,Mesa Compacta,3,792.93,2378.79,761.01,0.3199,2024-07
+2024-02-23,SC,Televendas,Corporativo,Eletrônicos,Smartphone X,2,2694.22,5388.44,1057.06,0.1962,2024-02
+2024-04-08,RJ,Televendas,Varejo,Acessórios,Teclado Mecânico,3,390.35,1171.05,512.82,0.4379,2024-04
+2024-12-29,PR,Loja Física,Corporativo,Acessórios,Headset Pro,7,352.18,2465.26,1151.71,0.4672,2024-12
+2024-06-10,BA,Marketplace,Varejo,Móveis,Mesa Compacta,4,751.34,3005.36,950.08,0.3161,2024-06
+2024-08-02,RS,Televendas,Varejo,Eletrônicos,Smartphone X,4,2758.2,11032.8,2199.48,0.1994,2024-08
+2024-11-05,RS,Loja Física,Corporativo,Móveis,Cadeira Office,6,893.12,5358.72,1166.46,0.2177,2024-11
+2024-07-29,BA,Loja Física,Corporativo,Móveis,Mesa Compacta,2,775.53,1551.06,484.18,0.3122,2024-07
+2024-11-10,PR,Marketplace,Varejo,Eletrônicos,Smartphone X,6,2629.09,15774.54,2689.44,0.1705,2024-11
+2024-11-13,SC,Online,Corporativo,Eletrônicos,Monitor 27,6,1410.93,8465.58,2419.5,0.2858,2024-11
+2024-05-05,BA,Online,Varejo,Acessórios,Teclado Mecânico,7,372.97,2610.79,1038.94,0.3979,2024-05
+2024-01-27,BA,Loja Física,Varejo,Acessórios,Mouse Gamer,3,199.08,597.24,263.94,0.4419,2024-01
+2024-12-24,PR,Loja Física,Varejo,Eletrônicos,Smartphone X,6,2848.27,17089.62,4605.48,0.2695,2024-12
+2024-04-14,MG,Televendas,Varejo,Móveis,Mesa Compacta,3,609.54,1828.62,314.37,0.1719,2024-04
+2024-10-07,BA,Marketplace,Varejo,Acessórios,Teclado Mecânico,4,409.87,1639.48,779.56,0.4755,2024-10
+2024-08-19,MG,Marketplace,Varejo,Móveis,Mesa Compacta,3,728.9,2186.7,598.83,0.2739,2024-08
+2024-12-23,RJ,Loja Física,Varejo,Eletrônicos,Smartphone X,1,2981.57,2981.57,832.21,0.2791,2024-12
+2024-12-25,MG,Marketplace,Varejo,Acessórios,Teclado Mecânico,5,395.71,1978.55,779.2,0.3938,2024-12
+2024-01-26,PE,Televendas,Varejo,Acessórios,Teclado Mecânico,2,406.5,813.0,342.26,0.421,2024-01
+2024-12-20,RJ,Online,Varejo,Acessórios,Headset Pro,7,314.88,2204.16,863.17,0.3916,2024-12
+2024-04-19,BA,Online,Corporativo,Móveis,Cadeira Office,4,1155.87,4623.48,1643.56,0.3555,2024-04
+2024-12-02,MG,Loja Física,Varejo,Acessórios,Teclado Mecânico,9,371.53,3343.77,1250.37,0.3739,2024-12
+2024-06-06,RS,Online,Varejo,Eletrônicos,Notebook Pro,2,4060.54,8121.08,1943.42,0.2393,2024-06
+2024-08-22,SP,Marketplace,Varejo,Móveis,Mesa Compacta,8,670.55,5364.4,1375.52,0.2564,2024-08
+2024-06-09,BA,Marketplace,Varejo,Acessórios,Headset Pro,6,302.64,1815.84,520.5,0.2866,2024-06
+2024-04-28,BA,Online,Varejo,Acessórios,Mouse Gamer,3,237.46,712.38,325.5,0.4569,2024-04
+2024-12-07,SC,Loja Física,Varejo,Acessórios,Teclado Mecânico,5,340.71,1703.55,578.25,0.3394,2024-12
+2024-11-30,SC,Televendas,Varejo,Eletrônicos,Notebook Pro,1,4656.08,4656.08,1577.62,0.3388,2024-11
+2024-04-10,SP,Loja Física,Varejo,Eletrônicos,Smartphone X,6,2883.49,17300.94,4535.16,0.2621,2024-04
+2024-07-31,RJ,Online,Varejo,Eletrônicos,Notebook Pro,6,4268.85,25613.1,7493.4,0.2926,2024-07
+2024-06-03,RS,Loja Física,Varejo,Eletrônicos,Monitor 27,6,1600.47,9602.82,3119.1,0.3248,2024-06
+2024-10-29,SP,Marketplace,Varejo,Eletrônicos,Notebook Pro,5,4411.59,22057.95,7652.0,0.3469,2024-10
+2024-05-26,MG,Online,Varejo,Acessórios,Headset Pro,5,295.79,1478.95,536.45,0.3627,2024-05
+2024-08-20,RJ,Televendas,Varejo,Eletrônicos,Notebook Pro,5,4072.51,20362.55,3939.7,0.1935,2024-08
+2024-09-23,BA,Televendas,Varejo,Móveis,Mesa Compacta,2,806.39,1612.78,544.38,0.3375,2024-09
+2024-06-04,PE,Televendas,Varejo,Móveis,Cadeira Office,1,933.71,933.71,243.99,0.2613,2024-06
+2024-09-08,PE,Online,Corporativo,Móveis,Mesa Compacta,4,821.22,3284.88,1116.16,0.3398,2024-09
+2024-03-01,RS,Televendas,Varejo,Acessórios,Teclado Mecânico,1,354.39,354.39,122.63,0.346,2024-03
+2024-07-11,SP,Marketplace,Corporativo,Eletrônicos,Notebook Pro,6,3983.58,23901.48,5472.0,0.2289,2024-07
+2024-12-07,PR,Loja Física,Varejo,Acessórios,Mouse Gamer,5,245.12,1225.6,670.45,0.547,2024-12
+2024-05-07,SP,Marketplace,Corporativo,Móveis,Cadeira Office,6,966.43,5798.58,1588.92,0.274,2024-05
+2024-02-08,MG,Online,Corporativo,Acessórios,Mouse Gamer,7,204.56,1431.92,589.96,0.412,2024-02
+2024-04-06,MG,Televendas,Varejo,Móveis,Mesa Compacta,4,700.32,2801.28,842.32,0.3007,2024-04
+2024-08-19,PE,Loja Física,Varejo,Acessórios,Mouse Gamer,1,204.78,204.78,87.89,0.4292,2024-08
+2024-05-03,PE,Televendas,Varejo,Eletrônicos,Monitor 27,3,1533.78,4601.34,1279.2,0.278,2024-05
+2024-01-09,SC,Loja Física,Varejo,Acessórios,Headset Pro,4,338.4,1353.6,630.36,0.4657,2024-01
+2024-08-28,MG,Online,Varejo,Eletrônicos,Monitor 27,4,1540.29,6161.16,2217.16,0.3599,2024-08
+2024-07-27,SC,Televendas,Varejo,Móveis,Cadeira Office,6,984.93,5909.58,1866.54,0.3158,2024-07
+2024-04-04,SC,Online,Varejo,Acessórios,Mouse Gamer,6,218.91,1313.46,580.32,0.4418,2024-04
+2024-06-28,RS,Televendas,Corporativo,Eletrônicos,Notebook Pro,4,4083.97,16335.88,3900.24,0.2388,2024-06
+2024-10-28,RS,Marketplace,Corporativo,Acessórios,Mouse Gamer,7,208.53,1459.71,611.03,0.4186,2024-10
+2024-10-19,BA,Loja Física,Corporativo,Acessórios,Mouse Gamer,3,211.57,634.71,277.95,0.4379,2024-10
+2024-04-24,BA,Loja Física,Corporativo,Eletrônicos,Monitor 27,4,1484.3,5937.2,1419.56,0.2391,2024-04
+2024-12-23,PR,Loja Física,Varejo,Acessórios,Headset Pro,5,335.13,1675.65,799.35,0.477,2024-12
+2024-11-23,SC,Televendas,Varejo,Acessórios,Mouse Gamer,4,201.99,807.96,315.96,0.3911,2024-11
+2024-12-25,PE,Marketplace,Varejo,Eletrônicos,Notebook Pro,6,4009.77,24058.62,5437.74,0.226,2024-12
+2024-07-13,RS,Televendas,Varejo,Acessórios,Mouse Gamer,1,214.15,214.15,-29.959999999999997,-0.13990193789399952,2024-07
+2024-01-17,BA,Televendas,Varejo,Acessórios,Mouse Gamer,1,201.13,201.13,78.56,0.3906,2024-01
+2024-04-11,SP,Loja Física,Corporativo,Móveis,Cadeira Office,6,1031.76,6190.56,1800.42,0.2908,2024-04
+2024-12-07,RS,Loja Física,Varejo,Eletrônicos,Smartphone X,6,2850.31,17101.86,4377.06,0.2559,2024-12
+2024-07-29,PR,Online,Corporativo,Eletrônicos,Monitor 27,3,1602.01,4806.03,1720.62,0.358,2024-07
+2024-04-30,BA,Marketplace,Varejo,Móveis,Mesa Compacta,5,831.01,4155.05,1618.35,0.3895,2024-04
+2024-04-06,RJ,Televendas,Varejo,Eletrônicos,Smartphone X,1,3127.06,3127.06,1126.13,0.3601,2024-04
+2024-12-29,PE,Televendas,Varejo,Acessórios,Teclado Mecânico,1,380.05,380.05,143.83,0.3785,2024-12
+2024-11-23,BA,Online,Varejo,Eletrônicos,Notebook Pro,7,4198.42,29388.94,7254.52,0.2468,2024-11
+2024-07-09,PE,Televendas,Varejo,Acessórios,Teclado Mecânico,1,408.84,408.84,189.37,0.4632,2024-07
+2024-08-07,SC,Televendas,Varejo,Móveis,Mesa Compacta,3,831.48,2494.44,939.6,0.3767,2024-08
+2024-01-29,PE,Online,Varejo,Móveis,Mesa Compacta,2,777.55,1555.1,456.34,0.2934,2024-01
+2024-12-17,MG,Televendas,Varejo,Eletrônicos,Monitor 27,4,1486.02,5944.08,1523.8,0.2564,2024-12
+2024-05-24,SP,Online,Varejo,Acessórios,Mouse Gamer,4,197.19,788.76,298.32,0.3782,2024-05
+2024-07-26,BA,Televendas,Varejo,Móveis,Mesa Compacta,1,869.93,869.93,343.28,0.3946,2024-07
+2024-10-22,RJ,Televendas,Varejo,Acessórios,Headset Pro,6,323.03,1938.18,754.62,0.3893,2024-10
+2024-05-09,SP,Marketplace,Corporativo,Móveis,Cadeira Office,6,948.39,5690.34,1512.42,0.2658,2024-05
+2024-11-11,SC,Marketplace,Varejo,Acessórios,Teclado Mecânico,6,344.36,2066.16,607.38,0.294,2024-11
+2024-07-25,SC,Televendas,Varejo,Móveis,Cadeira Office,2,1054.98,2109.96,773.2,0.3665,2024-07
+2024-01-09,RS,Marketplace,Corporativo,Acessórios,Mouse Gamer,5,208.34,1041.7,470.7,0.4519,2024-01
+2024-01-30,PR,Marketplace,Varejo,Acessórios,Mouse Gamer,4,220.13,880.52,378.36,0.4297,2024-01
+2024-05-24,PE,Televendas,Varejo,Acessórios,Headset Pro,2,337.56,675.12,281.66,0.4172,2024-05
+2024-02-28,SP,Loja Física,Varejo,Móveis,Cadeira Office,5,1084.95,5424.75,1686.0,0.3108,2024-02
+2024-06-21,SP,Televendas,Varejo,Eletrônicos,Monitor 27,3,1467.12,4401.36,1240.08,0.2817,2024-06
+2024-03-05,RS,Loja Física,Varejo,Eletrônicos,Notebook Pro,5,4110.55,20552.75,2641.55,0.1285,2024-03
+2024-04-22,RJ,Marketplace,Corporativo,Acessórios,Headset Pro,5,312.05,1560.25,585.9,0.3755,2024-04
+2024-01-27,SP,Televendas,Varejo,Eletrônicos,Smartphone X,2,2667.24,5334.48,986.32,0.1849,2024-01
+2024-05-26,RS,Online,Varejo,Acessórios,Headset Pro,5,313.09,1565.45,553.8,0.3538,2024-05
+2024-10-24,MG,Marketplace,Varejo,Acessórios,Teclado Mecânico,2,363.83,727.66,271.18,0.3727,2024-10
+2024-06-22,RS,Loja Física,Varejo,Móveis,Cadeira Office,4,993.0,3972.0,1280.92,0.3225,2024-06
+2024-03-28,PE,Televendas,Varejo,Acessórios,Teclado Mecânico,2,345.28,690.56,246.52,0.357,2024-03
+2024-01-28,RJ,Loja Física,Corporativo,Móveis,Cadeira Office,3,1082.74,3248.22,1352.13,0.4163,2024-01
+2024-02-17,PR,Loja Física,Varejo,Móveis,Cadeira Office,3,1007.42,3022.26,913.35,0.3022,2024-02
+2024-04-01,MG,Marketplace,Varejo,Acessórios,Mouse Gamer,3,197.7,593.1,244.53,0.4123,2024-04
+2024-02-26,SC,Televendas,Corporativo,Móveis,Mesa Compacta,6,727.37,4364.22,1178.76,0.2701,2024-02
+2024-07-17,SP,Televendas,Corporativo,Eletrônicos,Smartphone X,6,3084.73,18508.38,6333.3,0.3422,2024-07
+2024-04-03,RJ,Loja Física,Corporativo,Acessórios,Mouse Gamer,6,222.02,1332.12,621.96,0.4669,2024-04
+2024-05-18,SC,Televendas,Corporativo,Acessórios,Headset Pro,7,315.17,2206.19,921.69,0.4178,2024-05
+2024-12-25,PR,Loja Física,Varejo,Eletrônicos,Smartphone X,9,2720.42,24483.78,4824.36,0.197,2024-12
+2024-04-10,RJ,Loja Física,Varejo,Acessórios,Mouse Gamer,4,225.92,903.68,442.64,0.4898,2024-04
+2024-01-30,SC,Online,Varejo,Acessórios,Teclado Mecânico,3,371.18,1113.54,385.71,0.3464,2024-01
+2024-05-07,MG,Marketplace,Varejo,Móveis,Mesa Compacta,2,840.24,1680.48,613.2,0.3649,2024-05
+2024-05-20,SC,Marketplace,Varejo,Acessórios,Headset Pro,1,302.79,302.79,110.66,0.3655,2024-05
